@@ -3,8 +3,8 @@ from datetime import *
 import pandas as pd
 from random import randint
 
-my_email = 'pythontstng@gmail.com'
-my_password = 'ipenpekqatkwhlbz'
+my_email = 'username@example.com'
+my_password = 'your_password_here'
 SMTP_SERVER = "smtp.gmail.com"
 PORT = 587
 
